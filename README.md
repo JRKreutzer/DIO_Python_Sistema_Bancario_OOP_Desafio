@@ -11,6 +11,10 @@ Este é um código desenvolvido como parte do desafio proposto pelo Bootcamp Pyt
 6. **Listar Contas - Exibe uma lista de contas.
 0. **Sair:** Encerra o programa.
 
+## Diagrama base
+
+![Diagrama disponibilizado pela DIO](https://github.com/JRKreutzer/DIO_Python_Sistema_Bancario_OOP_Desafio/blob/main/Trilha%20Python%20-%20desafio.png)
+
 ## Requisitos
 
 - Python 3.x instalado no sistema.
